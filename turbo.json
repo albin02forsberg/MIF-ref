@@ -17,10 +17,5 @@
       "cache": false,
       "persistent": true
     }
-  },
-  "pipeline": {
-    "build": {
-      "outputs": ["apps/next-app/.next/**"]
-    }
   }
 }
